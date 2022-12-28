@@ -1,0 +1,14 @@
+.triangle {
+    width: 0;
+    /* width style */
+    border: 20px solid;
+    /* top [left, tight] bottom*/
+    border-color: #f30 transparent transparent;
+}
+
+.icon {
+    background-color: antiquewhite;
+    width: 15px;
+    height: 15px;
+    border: 11px solid transparent;
+}

@@ -1,0 +1,19 @@
+.left {
+    color: black;
+    font-size: 15px;
+}
+
+.left::before {
+    /* content: 'before'; */
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    background-image: url('https://5.imimg.com/data5/AS/SJ/MY-6807979/chennai-beverages-90x90.jpg');
+    background-repeat: no-repeat;
+    background-position:
+        center;
+    background-size: cover;
+    margin-right: 4px;
+    width: 30px;
+    height: 30px;
+}
