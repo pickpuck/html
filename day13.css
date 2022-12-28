@@ -1,0 +1,5 @@
+.mini-logo {
+    width: 30px;
+    /* 指定行内元素的垂直对齐方式 */
+    vertical-align: middle;
+}
